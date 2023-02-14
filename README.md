@@ -15,3 +15,5 @@ if you can speed up the processing of this app please do im happy to see upgrade
 
 i might make a ui for this at some point but do not count on it.
 a good note is that if hardware acceleration is off, for some reason the colors change slightly. this will cause an error so make sure your colors are based on your current settings
+
+(im planning to remake this in autoit3 to see if that speeds it up)
